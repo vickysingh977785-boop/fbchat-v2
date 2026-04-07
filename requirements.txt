@@ -1,3 +1,3 @@
-fbchat-v2==1.0.10
+fbchat-v2
 requests
 attrs
